@@ -3,12 +3,12 @@ programa
 	
 	funcao inicio()
 	{
-		cadeia aluno
+		cadeia estudante
 		real nota
 		
 
 		escreva("Digite um nome de aluno: ")
-		leia(aluno)
+		leia(estudante)
 
 		escreva("\n Digite uma nota: ")
 		leia(nota)
@@ -26,12 +26,12 @@ programa
 }
 /* $$$ Portugol Studio $$$ 
  * 
- * Esta seÃ§Ã£o do arquivo guarda informaÃ§Ãµes do Portugol Studio.
- * VocÃª pode apagÃ¡-la se estiver utilizando outro editor.
+ * Esta seção do arquivo guarda informações do Portugol Studio.
+ * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 215; 
+ * @POSICAO-CURSOR = 123; 
  * @PONTOS-DE-PARADA = ;
- * @SIMBOLOS-INSPECIONADOS = {aluno, 6, 9, 5}-{nota, 7, 7, 4};
+ * @SIMBOLOS-INSPECIONADOS = {nota, 7, 7, 4};
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
  * @FILTRO-ARVORE-TIPOS-DE-SIMBOLO = variavel, vetor, matriz, funcao;
  */
