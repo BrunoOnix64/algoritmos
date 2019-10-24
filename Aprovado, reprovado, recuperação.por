@@ -1,6 +1,6 @@
 programa
 {
-	
+	//Edição pelo GitHub!
 	funcao inicio()
 	{
 		cadeia estudante
@@ -17,7 +17,7 @@ programa
 			escreva("\n Aluno aprovado! \n")
 					}
 				se(nota==6){
-				escreva("\n Aluno em recuperação! \n")
+				escreva("\n Aluno em recuperaÃ§Ã£o! \n")
 						}
 						se(nota<6){
 							escreva("\n Aluno reprovado! \n")
@@ -26,8 +26,8 @@ programa
 }
 /* $$$ Portugol Studio $$$ 
  * 
- * Esta se��o do arquivo guarda informa��es do Portugol Studio.
- * Voc� pode apag�-la se estiver utilizando outro editor.
+ * Esta seção do arquivo guarda informações do Portugol Studio.
+ * Você pode apagá-la se estiver utilizando outro editor.
  * 
  * @POSICAO-CURSOR = 123; 
  * @PONTOS-DE-PARADA = ;
